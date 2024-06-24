@@ -1,0 +1,14 @@
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.AssemblyInfoInputs.cache
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.AssemblyInfo.cs
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.csproj.CoreCompileInputs.cache
+C:\Users\ana\Desktop\controle_clientes\bin\MCD\Debug\net6.0\controle_clientes.exe
+C:\Users\ana\Desktop\controle_clientes\bin\MCD\Debug\net6.0\controle_clientes.deps.json
+C:\Users\ana\Desktop\controle_clientes\bin\MCD\Debug\net6.0\controle_clientes.runtimeconfig.json
+C:\Users\ana\Desktop\controle_clientes\bin\MCD\Debug\net6.0\controle_clientes.dll
+C:\Users\ana\Desktop\controle_clientes\bin\MCD\Debug\net6.0\controle_clientes.pdb
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.dll
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\refint\controle_clientes.dll
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.pdb
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\controle_clientes.genruntimeconfig.cache
+C:\Users\ana\Desktop\controle_clientes\obj\MCD\Debug\net6.0\ref\controle_clientes.dll
